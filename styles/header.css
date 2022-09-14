@@ -134,6 +134,7 @@
   .opcoes__botao:checked ~ .opcoes__rotulo > .opcoes__item {
     background: var(--azul-degrade);
     color: var(--branco);
+    text-decoration: none;
   }
 
   .opcoes__botao {
